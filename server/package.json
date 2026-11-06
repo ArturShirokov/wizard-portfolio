@@ -9,8 +9,8 @@
     "start": "node dist/index.js"
   },
   "dependencies": {
-    "@hono/node-server": "^1.4.0",
-    "hono": "^4.10.7"
+    "@hono/node-server": "^1.19.18",
+    "hono": "^4.13.16"
   },
   "devDependencies": {
     "@types/node": "^22.10.1",
